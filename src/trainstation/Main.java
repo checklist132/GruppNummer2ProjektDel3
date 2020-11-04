@@ -6,7 +6,7 @@ public class Main {
 		
 		Conductor person1 = new Conductor();
 		
-		//person1.scannerRegister();
+		person1.scannerRegister();
 		
 		person1.showAmount(); 
 	
