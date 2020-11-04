@@ -26,6 +26,8 @@
 
 ##### 2/11-2020, Vi har börjat koda lite i klasserna, lägga till metoder samt bestämt vilka klasser som ska vara super klasser och subklasser. Vi har även angett klasserna egenskaper/attributer.
 
+##### 4/11-2020, Idag har vi lagt till switch i de fyra olika cases som finns i klassen Conductor. Vi har även diskuterat om att lägga till ArrayList och inkapsling samt om vi ska ta bort några klasser. 
+
 #####På vilket sätt har ni använt er av Objektorentering? Vi har använt oss av objektorientering genom att...
 
 #####Vilka klasser och metoder har vem haft ansvar för?
