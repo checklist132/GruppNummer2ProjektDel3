@@ -13,10 +13,7 @@ public class Tickets {
 	
 	Scanner scanTicket = new Scanner(System.in);
 	
-	public void scannerRegister(){
 	
-		
-	}
 
 	
 }

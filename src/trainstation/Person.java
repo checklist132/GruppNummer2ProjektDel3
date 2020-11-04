@@ -9,6 +9,9 @@ public abstract class Person {
 	int personAge;
 	int personAmount;
 	int people;
+	int x;
+	int y;
+	int g;
 	
 	ArrayList<String> personList = new ArrayList<>();
 	
