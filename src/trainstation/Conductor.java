@@ -4,8 +4,16 @@ public class Conductor extends Person{
 
 	public void scannerRegister(){
 		System.out.println("Skriv in din namn tack!: ");
+		
+		
+		int i = 0;
+		while( i < 5) {
+		
 		personName = scanPeople.next();
 		personList.add(personName);
+		i++;
+		}
+		
 		
 	}
 	
@@ -16,7 +24,6 @@ public class Conductor extends Person{
 		
 		//System.out.println("Vad är din ålder: ");
 		//personAge = scanPeople.nextInt();
-		
 		
 		
 		switch(people) {

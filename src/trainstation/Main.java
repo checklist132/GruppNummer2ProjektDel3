@@ -4,11 +4,11 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Conductor person1 = new Conductor();
+		Conductor conductor = new Conductor();
 		
-		person1.scannerRegister();
+		conductor.scannerRegister();
 		
-		person1.showAmount(); 
+		conductor.showAmount(); 
 	
 	}
 
